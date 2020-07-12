@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI-ML, Data Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with anything related to Data Science
-- 💬 Ask me about C, C++, Python
+- 💬 Ask me about Python
 - 📫 How to reach me: ankitchaudhari1598@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Gimme Music and I will code any time of the day!!
