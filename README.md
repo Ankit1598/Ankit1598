@@ -16,6 +16,6 @@
 
 ![carbon_info](https://github.com/Ankit1598/Ankit1598/blob/master/assets/github_profile.png)
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit1598&show_icons=true)
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit1598&hide=issues&show_icons=true&count_private=true&theme=chartreuse-dark)
 
 ![VisitorCount](https://profile-counter.glitch.me/Ankit1598/count.svg)
