@@ -14,8 +14,9 @@
 👨‍🎓 ***Technical Lead*** @[DevScript](https://https://devscript.tech/)
 
 
-![carbon_info](https://github.com/Ankit1598/Ankit1598/blob/master/assets/github_profile.png)
+![Ankit's carbon_info](https://github.com/Ankit1598/Ankit1598/blob/master/assets/github_profile.png)
 
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit1598&hide=issues&show_icons=true&count_private=true&theme=chartreuse-dark)
+![Ankit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1598&layout=compact&theme=chartreuse-dark)
 
 ![VisitorCount](https://profile-counter.glitch.me/Ankit1598/count.svg)
