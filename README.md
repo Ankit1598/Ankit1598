@@ -11,7 +11,7 @@
 
 ---
 
-👨‍🎓 ***Technical Lead*** @[DevScript](https://https://devscript.tech/)
+👨‍🎓 ***Technical Lead*** @[DevScript](https://devscript.tech/)
 
 
 ![Ankit's carbon_info](https://github.com/Ankit1598/Ankit1598/blob/master/assets/github_profile.png)
