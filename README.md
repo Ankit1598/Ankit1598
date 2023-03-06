@@ -11,7 +11,7 @@
 
 ---
 
-👨‍🎓 ***Technical Lead*** @[DevScript](https://devscript.tech/)
+👨‍🎓 ***Lead Frontend Developer*** @[LetsUpgrade](https://letsupgrade.in/)
 
 
 ![Ankit's carbon_info](https://github.com/Ankit1598/Ankit1598/blob/master/assets/github_profile.png)
